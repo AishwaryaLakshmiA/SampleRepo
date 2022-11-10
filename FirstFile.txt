@@ -1,2 +1,2 @@
 first file of git demo
-edited from remote
+edited from remote .
